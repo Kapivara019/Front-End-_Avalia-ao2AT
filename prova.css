@@ -1,0 +1,25 @@
+.artista{
+    float: left;
+    width: 120px;
+    opacity: 60%;
+}
+body{
+    background: linear-gradient(to right, rgb(147, 8, 8), rgb(92, 90, 90),black);
+}
+p{
+    color: white;
+}
+h1{
+    background-color: white;
+    color: red;
+}
+.texto::first-letter{
+    color: red;
+    font-family: 'Times New Roman', serif;
+    font-size: x-large;
+}
+.dm-serif-text-regular-italic {
+        font-family: "DM Serif Text", serif;
+        font-weight: 400;
+        font-style: italic;
+}
