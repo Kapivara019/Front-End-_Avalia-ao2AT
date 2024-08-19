@@ -14,7 +14,7 @@ h1{
     color: red;
 }
 .texto::first-letter{
-    color: red;
+    color: rgb(165, 25, 25);
     font-family: 'Times New Roman', serif;
     font-size: x-large;
 }
